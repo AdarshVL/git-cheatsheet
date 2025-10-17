@@ -36,6 +36,7 @@ Perfect for beginners and developers looking to refresh their Git skills.
 | `git commit -m "message"` | Commit staged changes |
 | `git log` | Show commit history |
 
+### 💡 Pro Tip: Use short, meaningful commit messages.
 ---
 
 ## 🌿 Branching  
@@ -49,6 +50,7 @@ Perfect for beginners and developers looking to refresh their Git skills.
 | `git merge <branch>` | Merge a branch into current |
 | `git branch -d <name>` | Delete a branch |
 
+### 🌱 Branches keep your main code safe while experimenting.
 ---
 
 ## 🌍 Remote Repositories (GitHub)  
@@ -62,6 +64,7 @@ Perfect for beginners and developers looking to refresh their Git skills.
 | `git pull` | Fetch and merge changes |
 | `git fetch` | Fetch branches/tags only |
 
+### 🌐 Always pull before pushing to avoid merge conflicts.
 ---
 
 ## 🧹 Undo & Fix  
@@ -73,6 +76,7 @@ Perfect for beginners and developers looking to refresh their Git skills.
 | `git reset --hard HEAD` | Reset to last commit (⚠ loses changes) |
 | `git revert <commit>` | Create a new commit that undoes a previous one |
 
+### 🩹 Revert is safer than reset when working in shared repos.
 ---
 
 ## 📦 Stash  
@@ -83,6 +87,7 @@ Perfect for beginners and developers looking to refresh their Git skills.
 | `git stash pop` | Reapply last stash |
 | `git stash list` | Show list of stashes |
 
+### 📂 Useful when switching branches mid-work.
 ---
 
 ## 🏁 Tagging  
@@ -94,14 +99,26 @@ Perfect for beginners and developers looking to refresh their Git skills.
 | `git push origin <tagname>` | Push tag to remote |
 | `git push origin --tags` | Push all tags |
 
+### 🏷️ Tags are great for marking release versions (v1.0, v2.0, etc).
 ---
 
-## 💡 Tips  
+## 💡 Pro Tips & Tricks
+---
 
-- Use `git log --oneline --graph` for a compact history view.  
-- Use `git diff` to see unstaged changes.  
-- Use `git status` frequently to stay aware of your working state.  
+ ✨ Compact commit history
+```
+git log --oneline --graph
+```
 
+🧩 Check unstaged changes
+```
+git diff
+```
+
+👀 Review before commit
+```
+git status
+```
 ---
 
 ## 📚 Author  
