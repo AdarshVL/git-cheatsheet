@@ -121,17 +121,24 @@ git status
 ```
 ---
 
-## 📚 Author  
-
-**Adarsh Lilhare**  
-Developer & Tech Enthusiast | GitHub • Linux • Python • SQL  
-📍 [TechCommand-Hub](https://github.com/yourusername/TechCommand-Hub)
+## 👨‍💻 Author
 
 ---
+### Adarsh Lilhare 
 
-## 🧩 License  
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-This resource is open-source and free to use under the [MIT License](LICENSE).
+🧠 Developer & Tech Enthusiast | GitHub • Linux • Python • SQL  
+   
+📍 [TechCommand-Hub](https://github.com/yourusername/TechCommand-Hub)
+
+📧 [Email](adarshlilhare@example.com)
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
 
 ---
 > _"Code, Commit, Push, Repeat."_ ✨  
